@@ -108,5 +108,14 @@ GymX-Fitness-App/
  
 
 ---
+## 🌐 Live Demo
+
+👉 [Live App on Netlify](https://gymx-fitness-app.netlify.app/)
+
+Explore the live version of **GymX – Modern Fitness Web App**, fully deployed on **Netlify**.  
+Browse exercises, search by muscle group, watch YouTube tutorials, and experience a smooth, responsive UI across all devices — mobile, tablet, and desktop.  
+No setup required — just click and start your fitness journey!
+
+
 
 
